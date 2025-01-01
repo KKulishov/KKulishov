@@ -32,7 +32,9 @@ I am deeply motivated by solving complex problems and ensuring system reliabilit
 
 Feel free to explore my repositories and projects here on GitHub. If you'd like to discuss opportunities, collaborations, or anything tech-related, don't hesitate to reach out!
 
-[Email](rndkulishov@gmail.com) | [telegram](https://t.me/kkonstantin_rnd)
+Email: rndkulishov@gmail.com 
+
+[Telegram](https://t.me/kkonstantin_rnd)
 
 <!--
 Todo add certificate:
