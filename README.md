@@ -10,7 +10,10 @@ Hi there! 👋 I'm passionate about building reliable and scalable systems, spec
 - Containerization and Orchestration: Docker, Kubernetes
 - Advanced Kubernetes Ecosystem: KEDA (HPA Autoscaling), OpenKruise, Kyverno
 - Service Mesh: Istio 
-- Infrastructure as Code (IaC): Terraform, Ansible
+- SSO: Keycloack 
+- BD: Mysql, Postgresql, Redis, Clickhouse, Elastic
+- Broker to queue: RabbitMQ
+- Infrastructure as Code (IaC): Terraform, Ansible, ArgoCD
 - Continuous Integration/Continuous Delivery (CI/CD): GitLab CI/CD, GitHub Actions 
 - Monitoring and Alerting: Prometheus, Grafana, EFK, Graylog, Loki, VictoriaMetrics, Coroot (Zero-instrumentation observability), OpenTelemetry
 - Incident Response and Troubleshooting: Splunk
@@ -28,6 +31,11 @@ I am deeply motivated by solving complex problems and ensuring system reliabilit
 - [Clickhouse-operator](https://github.com/KKulishov/clickhouse-operator) for Kubernetes. The goal is to create a separate CRD on the basis of which the user will be created in сlickhouse with certain rights to the table. 
 - [Ansible role](https://github.com/KKulishov/ansible_lxd). Stack setup description structure Nginx/Apache/mysql/Create user linux & mysql. 
 
+## COURSES AND CERTIFICATES
+
+- [Slurm](https://slurm.io/) course for python - [certificate](https://github.com/KKulishov/certificate/blob/master/Python_slurm.png)
+- [MTS Teta](https://teta.mts.ru/members/) course for SRE - [certificate](https://github.com/KKulishov/mts_sre/blob/main/cert/Kulishov_Konstantin.png) 
+
 ## 🌐 Let's Connect
 
 Feel free to explore my repositories and projects here on GitHub. If you'd like to discuss opportunities, collaborations, or anything tech-related, don't hesitate to reach out!
@@ -41,6 +49,7 @@ Todo add certificate:
 
 Slurm/Mts/Yandex/VK 
 
+Add LinkDin
 
 **KKulishov/KKulishov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
