@@ -33,6 +33,7 @@ I am deeply motivated by solving complex problems and ensuring system reliabilit
 
 ## COURSES AND CERTIFICATES
 
+- [Rebrain](https://rebrainme.com/) course for Kubernetes x Yandex.Cloud - [certificate](https://github.com/KKulishov/certificate/blob/master/C3C3EAE613C4CD5FC16D2B8CD17FA26CEN.png)
 - [Slurm](https://slurm.io/) course for python - [certificate](https://github.com/KKulishov/certificate/blob/master/Python_slurm.png)
 - [MTS Teta](https://teta.mts.ru/members/) course for SRE - [certificate](https://github.com/KKulishov/mts_sre/blob/main/cert/Kulishov_Konstantin.png) 
 
