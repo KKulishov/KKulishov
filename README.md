@@ -26,7 +26,7 @@ I am deeply motivated by solving complex problems and ensuring system reliabilit
 
 ## 📝 My Projects
 
-- [Local Trabshooting](https://github.com/KKulishov/local_trableshoot) and System State Report Generation. Motivation Based on the Book "Systems Performance" by brendan gregg. 
+- [Local Trabshooting](https://github.com/KKulishov/local_trableshoot) and System State Report Generation. Motivation Based on the Book "Systems Performance" by Brendan Gregg. 
 - [ChatOps](https://github.com/KKulishov/chatops) for yandex cloud. This project allows you to change runner resources via telegram find out the states kubernetes jobs. 
 - [Clickhouse-operator](https://github.com/KKulishov/clickhouse-operator) for Kubernetes. The goal is to create a separate CRD on the basis of which the user will be created in сlickhouse with certain rights to the table. 
 - [Ansible role](https://github.com/KKulishov/ansible_lxd). Stack setup description structure Nginx/Apache/mysql/Create user linux & mysql. 
